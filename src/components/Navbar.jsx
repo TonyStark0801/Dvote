@@ -10,8 +10,8 @@ import logo from "../../images/logo36.png";
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
-  let admin = "0x092C4A4df135bB5FBc50Ae9681576932f84adC67"
-  let data = JSON.parse(sessionStorage.getItem('admin'));
+  let admin = "0x63Efa512b1CC700133AaE2c8809fc9c072CB4dD1"
+  let data = JSON.parse(sessionStorage.admin);
   let a =  ()=>{
     if(admin===data[0] || data===null){
       window.location="login"

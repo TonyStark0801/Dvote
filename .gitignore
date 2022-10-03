@@ -25,3 +25,17 @@ dist-ssr
 
 package-lock.json
 
+client/src/contracts/Election.json
+client/src/contracts/Migrations.json
+client/build/asset-manifest.json
+client/build/favicon.png
+client/build/index.html
+client/build/static/css/main.4c531917.chunk.css
+client/build/static/css/main.4c531917.chunk.css.map
+client/build/static/js/2.ed81d9a1.chunk.js
+client/build/static/js/2.ed81d9a1.chunk.js.LICENSE.txt
+client/build/static/js/2.ed81d9a1.chunk.js.map
+client/build/static/js/main.65533d2a.chunk.js
+client/build/static/js/main.65533d2a.chunk.js.map
+client/build/static/js/runtime-main.03887cff.js
+client/build/static/js/runtime-main.03887cff.js.map

@@ -2,15 +2,10 @@
 import { Footer, Navbar } from '../components'
 import {React,useState} from 'react'
 import 'react-phone-number-input/style.css'
-import { Button } from 'react-bootstrap';
+// import { Button } from 'react-bootstrap';
 
 import { emblem } from '../../images';
 import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
-
-
-
-
-
 
 
 
